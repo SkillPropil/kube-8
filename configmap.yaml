@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: index
+data:
+  index.html: |
+    <html>
+    <h1>Hello</h1>
+    </br>
+    <h1>5 days of pain and i got it! </h1>
+    </html>
